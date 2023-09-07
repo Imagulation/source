@@ -1,5 +1,5 @@
 # Official Domains
-~~Current website domain: https://imagulation.com/~~
+Current website domain: https://imagulation.com/
 
 Other domains:
 * ~~https://imagulation.cf/~~
